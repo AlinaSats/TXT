@@ -1,0 +1,5 @@
+FiO - Sats Alina Hennadiivna
+Age - 30
+Number_of_animal - 1
+Futer_desured_salary - 600
+
